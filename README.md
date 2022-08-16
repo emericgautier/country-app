@@ -2,6 +2,8 @@
 
 ~ Importer des données d'API
 
+~ Créer une logique de tri dynamique
+
     1. Tester le lien de l'API dans le navigateur (https://restcountries.com/v3.1/all)
     2. Créer une fonction pour "fetcher" les données, afficher les données dans la console.
     3. Passer les données à une variable
